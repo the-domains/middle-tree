@@ -1,0 +1,14 @@
+layout_spectrum: 0.375700960168615
+typography_spectrum: 0.7786205445881933
+color:
+  brandStrength: 0.44579998403787613
+  lightness: 0.7271865156944841
+  saturation: 0.04916380066424608
+  rhythmicContrast: 0.34859670069999993
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Middle Tree
